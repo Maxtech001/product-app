@@ -12,8 +12,9 @@
         <!-- Sonar properties -->
         <sonar.projectKey>com.ecommerce:ecommerce-app</sonar.projectKey>
         <sonar.projectName>Ecommerce App</sonar.projectName>
-        <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.login>${env.SONAR_TOKEN}</sonar.login>
+        <sonar.host.url>http://3.89.114.212:9000</sonar.host.url>
+        <sonar.token>squ_5e388927d875490e07467bb3f49c4ca4eff6abf1</sonar.token>
+
     </properties>
 
     <dependencies>
